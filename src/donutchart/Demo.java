@@ -1,14 +1,11 @@
 package donutchart;
 
 import java.util.ArrayList;
-
 import javafx.application.Application;
 import javafx.collections.FXCollections;
-import javafx.collections.ObservableList;
 import javafx.scene.Scene;
 import javafx.scene.chart.PieChart;
 import javafx.scene.chart.PieChart.Data;
-import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
 public class Demo extends Application {
