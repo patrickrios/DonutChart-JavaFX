@@ -1,9 +1,5 @@
 # DonutChart JavaFX
-A custom pie chart to looks like a donut chart
-
-[how use it](##how-use-it?)
-
-[styling](##styling)
+A custom pie chart to looks like a donut chart.
 
 ![](screenshots/donutchart.png)
 
